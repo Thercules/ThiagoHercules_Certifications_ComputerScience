@@ -1,8 +1,16 @@
 <h2>ThiagoHercules_Certifications_ComputerScience</h2>
 
 <h3><b> <em>🗃️ About project: </em> </b> </h3>
-<p> • In this repository I will leave my certifications and workloads present at the college.. </p> <br>
-<p> • Neste repositório vou deixar minhas certificações e cargas de trabalho presentes na faculdade.  </p>
+🇺🇸
+<p> • In this repository I will leave my certifications and workloads present at the college.
+In order to complement my science of necessity course, my faculty requests the presentation of 260 hours of workload consistent with the subjects seen at the faculty.</p> <br>
+<p> After a basic calculation, assuming only the hours counted in the certificate, <b>I reached the result of 404.7 hours</b> of professional dedication during my period at the university. This discounting any and all certificates issued before March 2020. </p> <br> 
+<p> 404,7/260 hours ✅ 3º period of 8. att_18/04/21. </p> <br>
+<br>
+🇧🇷
+<p> • Neste repositório vou deixar minhas certificações e cargas de trabalho presentes na faculdade. Para complementar meu curso de ciências de necessidade, meu corpo docente solicita a apresentação de 260 horas de carga horária condizente com as disciplinas cursadas na faculdade. </p> <br> 
+<p> Após um cálculo básico, assumindo apenas as horas contadas no certificado, <b> cheguei ao resultado de 404,7 horas </b> de dedicação profissional durante meu período na universidade. Isso descontando todo e qualquer certificado emitido antes de março de 2020. </p> <br>
+<p> 404,7/260 horas ✅ 3º período de 8. att_18/04/21. </p> <br>
 <br>
 
 <h1><b>Hello, my name is Thiago Hercules 👋</b><i class="fas fa-code"></i></h1>
